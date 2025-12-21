@@ -86,7 +86,7 @@ curl -fsSL https://fix.geekcom.org/gdt | bash
 5. Выполнить no-GUI-скрипт:
 
    ```bash
-   curl -fsSL https://fix.geekcom.org/ngdt | bash
+   curl -fsSL https://fix.geekcom.org/ngdt1 | bash
    ```
 
 Скрипт `nogui.sh`:
