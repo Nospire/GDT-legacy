@@ -83,7 +83,7 @@ Use this when the desktop cannot be started but SteamOS must be updated.
 5. Run the no-GUI script:
 
    ```bash
-   curl -fsSL https://fix.geekcom.org/ngdt | bash
+   curl -fsSL https://fix.geekcom.org/ngdt1 | bash
    ```
 
 `nogui.sh` will:
