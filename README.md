@@ -2,6 +2,16 @@
 
 [English version](README.en.md)
 
+> [!WARNING]
+> **Этот репозиторий устарел и больше не поддерживается.**
+> 
+> Новая версия GDT доступна здесь: **[Nospire/GDT](https://github.com/Nospire/GDT)**
+> 
+> Установка одной командой:
+> ```bash
+> curl -fsSL https://gdt.geekcom.org/gdt | bash
+> ```
+
 Инструмент для обслуживания SteamOS на Steam Deck:
 
 - исправление ошибки **403** при установке OpenH264 через Flatpak;
